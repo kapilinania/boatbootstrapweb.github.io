@@ -1,0 +1,61 @@
+*{
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+.hedaer{
+    background: #0f0f10;
+    
+}
+.hedaer ul li a{
+    width: 120px;
+    font-weight: bold;
+    border: 0px solid red;
+}
+.hedaer ul li button{
+    width: 100px;
+    font-weight: bold;
+    border: 0px solid red;
+}
+.section{
+    background: #0f0f10;
+    
+}
+.main_img{
+    width: 230px;
+    position: relative;
+    top: -115px;
+    left: 70px;
+    border: 0px solid red;
+}
+.middle_slider{
+    background: #181a1b;
+    border-radius: 12px;
+    padding: 40px 0px;
+}
+.middle_slider1{
+    background: #181a1b;
+    border-radius: 12px;
+}
+   
+.middle_slider1 .img_part{
+    width:100px;
+    position: relative;
+    top: -40px;
+    left: 40px;
+} 
+.imput{
+    background: #0A0A0B;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+} 
+.input_form{
+    background: #35383a;
+    border-radius: 8px;
+    padding: 10px 20px;
+    border: none;
+}
+
